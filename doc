@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+	  <div style="
+    background-color:#f1f1f1;
+    text-align: center;
+    padding: 40px;">
+      <img src="https://s1.ax1x.com/2022/07/25/jvWeW8.png"  alt="叶致远" width="200px" height="100px">
+    </div>
+	  <div style="
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height: 1.7;">
+      <p>我的网站本期重做了好几遍，是全新的视角和概念，从浏览器底层渲染原理到实现网站的演示，一节课讲透，必看的一期。后面不管是写小程序还是App，都会用到这一期的概念。
+这一期内容是我做完第一章个人网站后更新的，用来替代原先没做好的第三节，但做完后发现四五六节也可以跳过，所以顺序不要按照时间来看，而是合集里的顺序。
+其实第一章一共七小节48分钟完结后已经有几百个同学上线了自己的个人网站，可以去 BV17S4y1P7qH 那边围观评论区看看，而现在，只需要四节，你也完全可以做到。原先的三四五六节可以作为补充学习使用。
+浏览器原理推荐阅读文章：https://developer.mozilla.org/zh-CN/docs/Web/Performance/How_browsers_work
+
+
+    
+    </div>
+	  <div style="
+    background-color:#f1f1f1;
+    text-align: center;
+    padding: 40px"
+    font size: 12px;>
+    <p>我的网站</p>
+    <a href="https://www.midorg.com/h.html"> 友情链接</a>
+    </div>
+    </body>
+</html>
